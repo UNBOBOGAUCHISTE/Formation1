@@ -1,0 +1,9 @@
+body {
+	background: url(connect_background.jpg) no-repeat center center fixed;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
